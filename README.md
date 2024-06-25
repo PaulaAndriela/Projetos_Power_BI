@@ -6,11 +6,11 @@ Como criadora do dashboard "Estoque e Vendas", gostaria de compartilhar um pouco
 
 A ideia central por trás do dashboard foi proporcionar uma visão integrada e acessível dos dados de vendas e estoque, permitindo uma análise rápida e eficiente para suporte à tomada de decisões. Com este dashboard, busquei responder a perguntas críticas como:
 
-## Qual é o desempenho das vendas ao longo do tempo?
-## Quais produtos estão com maior demanda e quais estão encalhados no estoque?
-## Como está a situação atual do estoque em relação às vendas?
-## Quais são as tendências e padrões que podem ser identificados para otimizar as operações?
-## Características Principais
+#### Qual é o desempenho das vendas ao longo do tempo?
+#### Quais produtos estão com maior demanda e quais estão encalhados no estoque?
+#### Como está a situação atual do estoque em relação às vendas?
+#### Quais são as tendências e padrões que podem ser identificados para otimizar as operações?
+#### Características Principais
 
 ### Visualizações Interativas:
 

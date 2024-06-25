@@ -1,5 +1,3 @@
-![image](https://github.com/PaulaAndriela/Projetos_Power_BI/assets/161093814/dee9f8d0-7fc9-4a88-a816-b6669be43e5f)
-
 ![image](https://github.com/PaulaAndriela/Projetos_Power_BI/assets/161093814/0b798124-8bb2-4f82-ad69-d4f0764c792a)
 
 Como criadora do dashboard "Estoque e Vendas" disponível no meu repositório GitHub, gostaria de compartilhar um pouco sobre o processo de desenvolvimento e os objetivos que eu tinha em mente ao criar esta ferramenta.
@@ -7,7 +5,7 @@ Como criadora do dashboard "Estoque e Vendas" disponível no meu repositório Gi
 Objetivo do Dashboard
 A ideia central por trás do dashboard foi proporcionar uma visão integrada e acessível dos dados de vendas e estoque, permitindo uma análise rápida e eficiente para suporte à tomada de decisões. Com este dashboard, busquei responder a perguntas críticas como:
 
-Qual é o desempenho das vendas ao longo do tempo?
+### Qual é o desempenho das vendas ao longo do tempo?
 Quais produtos estão com maior demanda e quais estão encalhados no estoque?
 Como está a situação atual do estoque em relação às vendas?
 Quais são as tendências e padrões que podem ser identificados para otimizar as operações?
@@ -42,3 +40,4 @@ Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em c
 
 
 
+![image](https://github.com/PaulaAndriela/Projetos_Power_BI/assets/161093814/dee9f8d0-7fc9-4a88-a816-b6669be43e5f)
